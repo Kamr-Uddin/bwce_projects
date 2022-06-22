@@ -1,2 +1,2 @@
-# bwce_project
+# bwce_projects
 Some useful bwce project
